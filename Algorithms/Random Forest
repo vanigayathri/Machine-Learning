@@ -1,2 +1,0 @@
-
-Random Forest is an ensemble learning algorithm used for both classification and regression tasks. It operates by constructing a multitude of decision trees during training and outputs the mode (for classification) or mean (for regression) of the individual tree predictions as the final result.
