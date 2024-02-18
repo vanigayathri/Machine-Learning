@@ -1,0 +1,1 @@
+Naive Bayes is a probabilistic machine learning algorithm based on Bayes' theorem. It is particularly useful for classification tasks and is considered "naive" because it assumes that the features used to describe instances are conditionally independent, given the class label. Despite this simplifying assumption, Naive Bayes often performs well and is computationally efficient.
